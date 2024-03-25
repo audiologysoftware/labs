@@ -1,0 +1,29 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    background-color:white;
+
+    width:100%;
+   
+}
+
+.body{
+    padding: 10px;
+    line-height: 30px;
+    max-height: 100vh;
+    overflow: auto;
+    
+}
+
+
+.footer{
+    position: absolute;   
+    bottom: 0;
+    width: 100%;
+}
+.scrollable-div {
+    width: 300px; /* Set your desired width */
+    height: 200px; /* Set your desired height */
+    overflow: hidden; /* Hide the scrollbar */
+    border: 1px solid #ccc; /* Optional: Add a border for visual clarity */
+  }

@@ -1,0 +1,156 @@
+[
+  {
+    "advisors": [
+      {
+        "name": "Dr. Hemanth N",
+        "designation": "Professor in Audiology",
+        "address": "JSSISH, Mysuru",
+        "email": "hemanthn.shetty@jssish.in ",
+        "path": "/people/hemanth.jpg"
+      }
+    ],
+    "externalAdvisors": [],
+    "researchScholars": [],
+    "students": [],
+    "alumni": [],
+    "members": [
+      {
+        "name": "Mr. Vishal",
+        "designation": "Assistant Professor in Audiology",
+        "address": "JSSISH, Mysuru"
+      }
+    ]
+  },
+  {
+    "advisors": [
+      {
+        "name": "Dr. Hemanth N",
+        "designation": "Professor",
+        "address": "JSSISH, Mysuru",
+        "email": "hemanthn.shetty@jssish.in ",
+        "path": "/people/hemanth.jpg"
+      }
+    ],
+    "externalAdvisors": [],
+    "researchScholars": [],
+    "students": [],
+    "alumni": [],
+    "members": [
+      {
+        "name": "Mr. Vishal",
+        "designation": "Assistant Professor in Audiology",
+        "address": "JSSISH, Mysuru"
+      },
+      {
+        "name": "Mr. Prashanth",
+        "designation": "Research Associate",
+        "address": "JSSISH, Mysuru"
+      },
+      {
+        "name": "Mr. Jeevan",
+        "designation": "Clinical Supervisor",
+        "address": "JSSISH, Mysuru"
+      }
+    ]
+  },
+  {
+    "advisors": [
+      {
+        "name": "Dr. Hemanth N",
+        "designation": "Professor in Audiology",
+        "address": "JSSISH, Mysuru",
+        "email": "hemanthn.shetty@jssish.in ",
+        "path": "/people/hemanth.jpg"
+      }
+    ],
+    "externalAdvisors": [
+      {
+        "name": "Dr. Sangamanatha Ankmnal Veeranna",
+        "designation": "Assistant Professor",
+        "address": "The University of Southern Mississippi",
+        "email": "sangamanatha@gmail.com",
+        "path": "/people/sankalpa.jpg"
+      }
+    ],
+    "researchScholars": [],
+    "students": [],
+    "alumni": [],
+    "members": [
+      {
+        "name": "Ms. Sanjana Singh S",
+        "designation": "Assistant Professor",
+        "address": "JSSISH, Mysuru"
+      }
+    ]
+  },
+  {
+    "advisors": [
+      {
+        "name": "Mr. Vipin Ghosh PG",
+        "designation": "Assistant Professor",
+        "address": "JSSISH, Mysuru.",
+        "email": "vipinghosh@jssish.in",
+        "path": "/people/vipin.jpg"
+      }
+    ],
+    "externalAdvisors": [
+      {
+        "name": "Dr. Vijay Kumar Narne",
+        "designation": "Assistant Professor",
+        "address": "Department of Medical Rehabilitation Sciences, College of Applied Medical Sciences, King Khalid University, Abha 61481, Saudi Arabia",
+        "email": "abc@gmail.com",
+        "path": ""
+      }
+    ],
+    "researchScholars": [],
+    "students": [],
+    "alumni": [],
+    "members": []
+  },
+  {
+    "advisors": [
+      {
+        "name": "Mr. Vishal K ",
+        "designation": "Assistant Professor",
+        "address": "JSSISH, Mysuru.",
+        "email": "vishal@jssish.in ",
+        "path": "/people/vishal.jpg"
+      }
+    ],
+    "externalAdvisors": [
+      {
+        "name": " Dr Alfarghal Mohamad ",
+        "designation": "Assistant Professor",
+        "address": "Currently working at Otolaryngology-Head and Neck Section, Surgery Department, King Abdulaziz Medical City, Jeddah, Saudi Arabia",
+        "email": "abc@gmail.com",
+        "path": ""
+      }
+    ],
+    "researchScholars": [],
+    "students": [],
+    "alumni": [],
+    "members": [
+      {
+        "name": "Mr Gurumallesh D N",
+        "designation": "Audiologist Grade 1 ",
+        "address": "JSSISH, Mysuru"
+      }
+    ]
+  },
+  {
+    "advisors": [
+      {
+        "name": " Mrs. Sankalpa M, ",
+        "designation": "Assistant Professor",
+        "address": "Currently working at Otolaryngology-Head and Neck Section, Surgery Department, King Abdulaziz Medical City, Jeddah, Saudi Arabia",
+        "email": "abc@gmail.com",
+        "path": ""
+      }
+    ],
+    "externalAdvisors": [],
+    "researchScholars": [],
+    "students": [],
+    "alumni": [],
+    "members": []
+  }
+]

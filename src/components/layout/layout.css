@@ -1,0 +1,30 @@
+.layout{
+    display: flex;
+    max-width: 100vw;
+}
+p {
+
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 10px;
+  margin-inline-end: 10px;
+}
+
+body {
+    overflow: hidden; /* Hide all scrollbars */
+  }
+  
+  .content {
+    /* Set dimensions and overflow properties */
+    width: 100%;
+    height: 100vh; /* 100% of the viewport height */
+    overflow: auto; /* Enable scrolling */
+  }
+  
+  /* Optionally, you can style the scrollbar track and thumb */
+  .content::-webkit-scrollbar {
+    width: 0; /* Hide scrollbar in Webkit browsers */
+  }
+  
+  /* Add any other styles as needed */
+  

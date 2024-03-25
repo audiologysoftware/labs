@@ -1,0 +1,201 @@
+[
+    {
+        "title": "Amplification Research Lab",
+        "icon": "bi-gear-fill",
+        "position" : 1,
+        "path" : "/",
+        "childrens": [
+            {
+                "title": "people",
+                "icon": "bi-house-fill",
+                "path": "/people",
+                "position" : 1
+            },
+            {
+                "title": "Research",
+                "icon": "bi-info-circle-fill",
+                "path": "/Research",
+                "position" : 1
+            },
+            {
+                "title": "Announcement",
+                "icon": "bi-phone-fill",
+                "path":"/Announcement",
+                "position" : 1
+           },
+            {
+                "title": "Contact",
+                "icon": "bi-question-circle-fill",
+                "path":"/Contact",
+                "position":1
+            }
+        ]
+    },
+    
+    {
+        "title": "Tinnitus and Hyperacusis Lab",
+        "icon": "bi-gear-fill",
+        "position" : 2,
+        "path" : "/Hearing-aid",
+        "childrens": [
+            {
+                "title": "people",
+                "icon": "bi-house-fill",
+                "path": "/people",
+                "position" : 2
+            },
+            {
+                "title": "Research",
+                "icon": "bi-info-circle-fill",
+                "path": "/Research",
+                "position" : 2
+            },
+            {
+                "title": "Announcement",
+                "icon": "bi-phone-fill",
+                "path":"/Announcement",
+                "position" : 2
+           },
+            {
+                "title": "Contact",
+                "icon": "bi-question-circle-fill",
+                "path":"/Contact",
+                "position" : 2
+            }
+        ]
+    },
+    
+    {
+        "title": "Central Auditory Processing Lab",
+        "icon": "bi-gear-fill",
+        "position" : 3,
+        "path" : "/Tinnitus",
+        "childrens": [
+            {
+                "title": "people",
+                "icon": "bi-house-fill",
+                "path": "/people",
+                "position" : 3
+            },
+            {
+                "title": "Research",
+                "icon": "bi-info-circle-fill",
+                "path": "/Research",
+                "position" : 3
+            },
+            {
+                "title": "Announcement",
+                "icon": "bi-phone-fill",
+                "path":"/Announcement",
+                "position" : 3
+           },
+            {
+                "title": "Contact",
+                "icon": "bi-question-circle-fill",
+                "path":"/Contact",
+                "position" : 3
+            }
+        ]
+    },
+    
+    {
+        "title": "Psychoacoustics and Speech Perception Lab",
+        "icon": "bi-gear-fill",
+        "position" : 4,
+        "path" : "/vdlab",
+        "childrens": [
+            {
+                "title": "people",
+                "icon": "bi-house-fill",
+                "path": "/people",
+                "position" : 4
+            },
+            {
+                "title": "Research",
+                "icon": "bi-info-circle-fill",
+                "path": "/Research",
+                "position" : 4
+            },
+            {
+                "title": "Announcement",
+                "icon": "bi-phone-fill",
+                "path":"/Announcement",
+                "position" : 4
+           },
+            {
+                "title": "Contact",
+                "icon": "bi-question-circle-fill",
+                "path":"/Contact",
+                "position" : 4
+            }
+        ]
+    },
+    
+    {
+        "title": "Vestibular Lab",
+        "icon": "bi-gear-fill",
+        "position" : 5,
+        "path" : "/vestibular",
+        "childrens": [
+            {
+                "title": "people",
+                "icon": "bi-house-fill",
+                "path": "/people",
+                "position" : 5
+            },
+            {
+                "title": "Research",
+                "icon": "bi-info-circle-fill",
+                "path": "/Research",
+                "position" : 5
+            },
+            {
+                "title": "Announcement",
+                "icon": "bi-phone-fill",
+                "path":"/Announcement",
+                "position" : 5
+           },
+            {
+                "title": "Contact",
+                "icon": "bi-question-circle-fill",
+                "path":"/Contact",
+                "position":5
+            }
+        ]
+    },
+    
+    {
+        "title": "Electrophysiology Lab",
+        "icon": "bi-gear-fill",
+        "position" : 6,
+        "path" : "/psychoacoustic",
+        "childrens": [
+            {
+                "title": "people",
+                "icon": "bi-house-fill",
+                "path": "/people",
+                "position":6
+            },
+            {
+                "title": "Research",
+                "icon": "bi-info-circle-fill",
+                "path": "/Research",
+                "position":6
+            },
+            {
+                "title": "Announcement",
+                "icon": "bi-phone-fill",
+                "path":"/Announcement",
+                "position":6
+           },
+            {
+                "title": "Contact",
+                "icon": "bi-question-circle-fill",
+                "path":"/Contact",
+                "position":6
+            }
+        ]
+    }
+    
+   ]
+    
