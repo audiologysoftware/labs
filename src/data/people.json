@@ -18,6 +18,16 @@
         "name": "Mr. Vishal",
         "designation": "Assistant Professor in Audiology",
         "address": "JSSISH, Mysuru"
+      },
+      {
+        "name": "Mr. Prashanth",
+        "designation": "Research Associate, Software Engineer",
+        "address": "JSSISH, Mysuru"
+      },
+      {
+        "name": "Mrs. Amruthavarshini",
+        "designation": "Research Associate",
+        "address": "JSSISH, Mysuru"
       }
     ]
   },
@@ -41,11 +51,7 @@
         "designation": "Assistant Professor in Audiology",
         "address": "JSSISH, Mysuru"
       },
-      {
-        "name": "Mr. Prashanth",
-        "designation": "Research Associate",
-        "address": "JSSISH, Mysuru"
-      },
+     
       {
         "name": "Mr. Jeevan",
         "designation": "Clinical Supervisor",
@@ -56,11 +62,11 @@
   {
     "advisors": [
       {
-        "name": "Dr. Hemanth N",
+        "name": "Dr. Asha Yathiraj ",
         "designation": "Professor in Audiology",
         "address": "JSSISH, Mysuru",
-        "email": "hemanthn.shetty@jssish.in ",
-        "path": "/people/hemanth.jpg"
+        "email": " ",
+        "path": "/people/asha.jpg"
       }
     ],
     "externalAdvisors": [
@@ -69,7 +75,7 @@
         "designation": "Assistant Professor",
         "address": "The University of Southern Mississippi",
         "email": "sangamanatha@gmail.com",
-        "path": "/people/sankalpa.jpg"
+        "path": "/people/sangam.jpeg"
       }
     ],
     "researchScholars": [],
@@ -78,6 +84,11 @@
     "members": [
       {
         "name": "Ms. Sanjana Singh S",
+        "designation": "Assistant Professor",
+        "address": "JSSISH, Mysuru"
+      },
+      {
+        "name": "Ms. Sindhu",
         "designation": "Assistant Professor",
         "address": "JSSISH, Mysuru"
       }
@@ -98,8 +109,8 @@
         "name": "Dr. Vijay Kumar Narne",
         "designation": "Assistant Professor",
         "address": "Department of Medical Rehabilitation Sciences, College of Applied Medical Sciences, King Khalid University, Abha 61481, Saudi Arabia",
-        "email": "abc@gmail.com",
-        "path": ""
+        "email": "",
+        "path": "/people/vijay.jpeg"
       }
     ],
     "researchScholars": [],
@@ -122,8 +133,8 @@
         "name": " Dr Alfarghal Mohamad ",
         "designation": "Assistant Professor",
         "address": "Currently working at Otolaryngology-Head and Neck Section, Surgery Department, King Abdulaziz Medical City, Jeddah, Saudi Arabia",
-        "email": "abc@gmail.com",
-        "path": ""
+        "email": "",
+        "path": "/people/alfarghal.jpeg"
       }
     ],
     "researchScholars": [],
@@ -143,14 +154,20 @@
         "name": " Mrs. Sankalpa M, ",
         "designation": "Assistant Professor",
         "address": "Currently working at Otolaryngology-Head and Neck Section, Surgery Department, King Abdulaziz Medical City, Jeddah, Saudi Arabia",
-        "email": "abc@gmail.com",
-        "path": ""
+        "email": "sankalpa@jssish.in",
+        "path": "/people/sankalpa.jpg"
       }
     ],
     "externalAdvisors": [],
     "researchScholars": [],
     "students": [],
     "alumni": [],
-    "members": []
+    "members": [
+      {
+        "name": "Mrs, Kruthika Suresh",
+        "designation": "Assistant professor ",
+        "address": "JSSISH, Mysuru"
+      }
+    ]
   }
 ]

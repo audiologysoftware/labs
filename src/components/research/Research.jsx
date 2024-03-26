@@ -8,7 +8,7 @@ import PositionContext from '../../store/RouteContextProvider';
 
 export default function Research() {
   const { current } = useContext(PositionContext);
-  const { publications, news, links, projects } = ResearchData[current - 1];
+  const { publications, news, links, projects,books } = ResearchData[current - 1];
 
   return (
     <div>
@@ -53,7 +53,23 @@ export default function Research() {
             ))}
           </ul>
         </div>
+        
       )}
+
+
+
+{books && books.length > 0 && ( // Add null check for 'projects'
+        <div>
+          <h2>Books</h2>
+          <ul>
+            {books.map((books, index) => (
+              <li key={index}>{books}</li>
+            ))}
+          </ul>
+        </div>
+        
+      )}
+      
     </div>
   );
 }

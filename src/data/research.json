@@ -40,7 +40,7 @@
                 ]
             },
             {
-                "year": "2015",
+                "year": "2018-2015",
                 "data": [
                     "Hemanth N. (2017) A battery of tests for fitting hearing aid to single-sided deafness client – a case report, Acta Oto-Laryngologica Case Reports, 2:1, 89-95, DOI: 10.1080/23772484.2017.1321469.",
                     "Hemanth. N. (2016). Effect of Compression Ratio and Release Time on Acoustic Cues of Speech Syllables. Otolaryngol Open Access J, 1(3): 000117.",
@@ -50,26 +50,13 @@
                 ]
             }
         ],
-        "news": [
-            "varun kumar as join to the jssish speech and hearing",
-            "prashanth sir is also working in the jssish"
-        ],
-        "links": [
-            {
-                "title": "A mobile app on conditioning for hearing before audiological evaluation ",
-                "path": "https://play.google.com/store/apps/details?id=com.nadaupashama.app"
-            },
-            {
-                "title": "A computer app on conditioning for hearing before audiological evaluation ",
-                "path": "https://play.google.com/store/apps/details?id=com.hearingconditioning"
-            },
-            {
-                "title": "A varun app on conditioning for hearing before audiological evaluation ",
-                "path": "https://play.google.com/store/apps/details?id=com.rhythmic_breathing.app&hl=en_IN&gl=U"
-            }
-        ],
+        "news": [],
+        "links": [],
         "projects": [
-            "Relationship between speech perception and envelope difference index with different hearing aid algorithms. (2015). Funded by All India Institute of Speech and Hearing (AIISH) Research Fund"
+            "Hemanth N & Ajith U K. (2019) Effect of hearing aid processing strategies onauditory cognitive measures: listening effort, mental fatigue and semanticinformation processing- DST-CSRI-ongoing"
+        ],
+        "books":[
+            "Hemanth N., & Nambi. A.(2020). Clinical aspects of hearing aids. Mysuru, Karnataka:Indian Speech and Hearing Association."
         ]
     },
     {
@@ -87,10 +74,19 @@
             }
         ],
         "news": [],
-        "links": [],
+        "links": [
+            {
+                "title": "A mobile app on tinnitus treatment",
+                "path": "https://play.google.com/store/apps/details?id=com.nadaupashama.app"
+            },
+            {
+                "title": "A desktop application for tinnitus evaluation and contemporary treatment approaches",
+                "path": "https://drive.google.com/file/d/1M3tmwx7n1SVB1KdxsJXa-p8xCrwoqdee/view?usp=drive_link"
+            }
+        ],
         "projects": [
-            "Hemanth N., Hemant B., Ramkrishna, BM., Kishore (2021). Efficacy of tele-Yoga Program is an Adjuvant to Conventional Management in Patients Suffering from tinnitus: A Randomised Control Trial - DST SATYAM-ongoing",
-            "Development of auditory-based application software for tinnitus management. (2016). Funded by All India Institute of Speech and Hearing (AIISH) Research Fund -"
+            "Hemanth N., Hemant B., Ramkrishna, BM., Kishore (2021). Efficacy of tele-Yoga Program is an Adjuvant to Conventional Management in Patients Suffering from tinnitus: A Randomised Control Trial - DST SATYAM-ongoing"
+            
         ]
     },
     {
@@ -225,7 +221,6 @@
         "links": [],
         "projects": []
     },
-
     {
         "publications": [
             {
@@ -256,7 +251,12 @@
             }
         ],
         "news": [],
-        "links": [],
+        "links": [
+            {
+                "title": "A mobile app on vestibular rehabitation therapy and yoga ",
+                "path": "https://play.google.com/store/apps/details?id=com.nadaupashama.app"
+            }
+        ],
         "projects": [
             "Apeksha, K., Hemanth N., Hemant B., Nischitha (2021). Development, validation and Efficacy testing of Yoga Therapy Program as an Add-on for Patients with vestibular Dysfunction - DST SATYAM - ongoing"
         ]
@@ -279,24 +279,22 @@
             {
                 "year": "2019",
                 "data": [
-                   "Apeksha, K., & Kumar A. U. (2019). Effect of acoustic features on discrimination ability in individuals with auditory neuropathy spectrum disorder: an electrophysiological and behavioral study. European Archives of Oto-Rhino-Laryngology. https://doi.org/10.1007/s00405-019-05405-9. ISSN No - 0937-4477, Impact factor – 1.54."
+                    "Apeksha, K., & Kumar A. U. (2019). Effect of acoustic features on discrimination ability in individuals with auditory neuropathy spectrum disorder: an electrophysiological and behavioral study. European Archives of Oto-Rhino-Laryngology. https://doi.org/10.1007/s00405-019-05405-9. ISSN No - 0937-4477, Impact factor – 1.54."
                 ]
             },
             {
                 "year": "2018-2012",
                 "data": [
-
-                     "Apeksha, K., & Kumar A. U. (2018). Cortical processing of speech in individuals with auditory neuropathy spectrum disorder. European Archives of Oto-Rhino-Laryngology, 275 (6), 1409-1418. https://doi.org/10.1007/s00405-018-4966-8, ISSN No - 0937-4477, Impact factor – 1.54.",
-                     "Hemanth, N., Mahadev, S., & Veeresh. D. (2014). The relationship between Acceptable Noise level and Electrophysiological Auditory Brainstem and Cortical Signal to Noise Ratios. Audiology Research, 4, 93, 1-4.",
-                     "Hemanth, N., & Manjula. P. (2013). Hemispheric Lateralization and Acoustic Change Complex in Individuals with Normal Hearing. Speech, Language and Hearing, 16 (1), 28-36.",
-                     "Hemanth, N., & Manjula. P. (2012). Effect of Stimuli, Transducer, Gender on Acoustic Change Complex. Audiology Research, 2, e14, 77-85.",
-                     "Hemanth. N., & Manjula. P. (2012). Representation of Speech Sounds in the Auditory Brainstem. Journal of Indian Speech and Hearing Association, 26 (2), 1-13."
-                    
+                    "Apeksha, K., & Kumar A. U. (2018). Cortical processing of speech in individuals with auditory neuropathy spectrum disorder. European Archives of Oto-Rhino-Laryngology, 275 (6), 1409-1418. https://doi.org/10.1007/s00405-018-4966-8, ISSN No - 0937-4477, Impact factor – 1.54.",
+                    "Hemanth, N., Mahadev, S., & Veeresh. D. (2014). The relationship between Acceptable Noise level and Electrophysiological Auditory Brainstem and Cortical Signal to Noise Ratios. Audiology Research, 4, 93, 1-4.",
+                    "Hemanth, N., & Manjula. P. (2013). Hemispheric Lateralization and Acoustic Change Complex in Individuals with Normal Hearing. Speech, Language and Hearing, 16 (1), 28-36.",
+                    "Hemanth, N., & Manjula. P. (2012). Effect of Stimuli, Transducer, Gender on Acoustic Change Complex. Audiology Research, 2, e14, 77-85.",
+                    "Hemanth. N., & Manjula. P. (2012). Representation of Speech Sounds in the Auditory Brainstem. Journal of Indian Speech and Hearing Association, 26 (2), 1-13."
                 ]
             }
         ],
         "news": [],
         "links": [],
-        "projects":[]
+        "projects": []
     }
 ]
