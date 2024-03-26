@@ -1,0 +1,22 @@
+.faculty {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    h4 {
+        font-size: 12px; /* You can adjust the size as per your preference */
+      }
+    
+   
+}
+
+.faculty img {
+    margin-right: 20px;
+  
+}
+
+@media screen and (max-width:768px) {
+    .faculty {
+        flex-direction: column;
+    }
+
+}

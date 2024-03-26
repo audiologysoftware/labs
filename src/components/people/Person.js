@@ -1,6 +1,6 @@
 
 import React from 'react'
-
+import "./Person.css"
 
 
 export default function Person({ path, name, designation, address, email }) {

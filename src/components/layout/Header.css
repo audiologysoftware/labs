@@ -5,6 +5,18 @@
     padding: 5px;  
     display: flex;
     width: 100%;
-    justify-content: center;
+     
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem; /* Adjust padding as needed */
+
   }
+
+
+  @media screen and (max-width:768px) {
+    .header {
+        font-size: 10px;
+    }
+
+}
   

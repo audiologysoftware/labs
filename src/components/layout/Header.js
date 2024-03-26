@@ -4,6 +4,7 @@
 import { useContext } from 'react';
 import { useLocation } from 'react-router-dom';
 import './Header.css';
+import './layout.css'
 import SidebarData from '../../data/sidebar.json';
 import PositionContext from '../../store/RouteContextProvider';
 
@@ -20,7 +21,9 @@ function Header() {
 
   return (
     <header className="header">
-      <h1>{labName}</h1>
+      <div>
+          <h1>{labName}</h1>
+      </div>
     </header>
   );
 }
