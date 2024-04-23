@@ -18,6 +18,10 @@ import AnnouncementPage from "./pages/AnnouncementPage";
 import { RouteContextProvider } from "./store/RouteContextProvider";
 
 import './App.css';
+import LanguagePage from "./pages/LanguagePage";
+import AcousticPage from "./pages/AcousticPage";
+import DeglutitionPage from "./pages/DeglutitionPage";
+import VoicePage from "./pages/VoicePage";
 function App() {
   const router = createBrowserRouter([
     {
@@ -50,6 +54,27 @@ function App() {
       element: <PsychoacousticPage />,
       errorElement: <PageNotFound />,
     },
+    {
+      path: "/neurocognition",
+      element: <LanguagePage/>,
+      errorElement: <PageNotFound />,
+    },
+    {
+      path: "/acoustic",
+      element: <AcousticPage/>,
+      errorElement: <PageNotFound />,
+    },
+    {
+      path: "/deglutition",
+      element: <DeglutitionPage/>,
+      errorElement: <PageNotFound />,
+    },
+    {
+      path: "/voice",
+      element: <VoicePage/>,
+      errorElement: <PageNotFound />,
+    },
+    
     {
       path: "/research",
       element: <ResearchPage />,

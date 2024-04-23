@@ -51,7 +51,6 @@
         "designation": "Assistant Professor in Audiology",
         "address": "JSSISH, Mysuru"
       },
-     
       {
         "name": "Mr. Jeevan",
         "designation": "Clinical Supervisor",
@@ -166,6 +165,110 @@
       {
         "name": "Mrs, Kruthika Suresh",
         "designation": "Assistant professor ",
+        "address": "JSSISH, Mysuru"
+      }
+    ]
+  },
+  {
+    "advisors": [
+      {
+        "name": "Dr. Suma R",
+        "designation": "Professor",
+        "address": "JSSISH, Mysuru",
+        "email": " ",
+        "path": "/people/suma.jpg"
+      }
+    ],
+    "externalAdvisors": [
+      {
+        "name": " Dr. Niharika M K ",
+        "designation": "Assistant Professor",
+        "address": "JSSISH, Mysuru",
+        "email": "niharika@jssish.in",
+        "path": "/people/niharika.jpg"
+      }
+    ],
+    "researchScholars": [],
+    "students": [
+      "Ms. Aviksha",
+      " II PG Student (M Sc SLP)"
+    ],
+    "alumni": [],
+    "members": []
+  },
+  {
+    "advisors": [
+      {
+        "name": "Dr. Narasimhan S V",
+        "designation": "Assistant Professor",
+        "address": "JSSISH, Mysuru.",
+        "email": " narasimhanslp@gmail.com",
+        "path": "/people/narasimha.jpg"
+      }
+    ],
+    "externalAdvisors": [
+      {
+        "name": "Ms. Revathi R ",
+        "designation": "Assistant Professor",
+        "address": "JSSISH, Mysuru.",
+        "email": "revathi@jssish.in",
+        "path": "/people/revathi.jpg"
+      }
+    ],
+    "researchScholars": [],
+    "students": [
+      "Mahanya",
+      "II Year PG Student (MSc SLP)"
+    ],
+    "alumni": [],
+    "members": []
+  },
+  {
+    "advisors": [
+      {
+        "name": "Dr. Narasimhan S V ",
+        "designation": "Assistant Professor",
+        "address": "JSSISH, Mysuru.",
+        "email": " narasimhanslp@gmail.com",
+        "path": "/people/narasimha.jpg"
+      }
+    ],
+    "externalAdvisors": [],
+    "researchScholars": [],
+    "students": [
+      "Ms. Divyashree",
+      "II Year PG Student (MSc SLP)"
+    ],
+    "alumni": [],
+    "members": [
+      {
+        "name": "Mr. Gunasagar",
+        "designation": "Speech Language Pathologist",
+        "address": "JSSISH, Mysuru"
+      }
+    ]
+  },
+  {
+    "advisors": [
+      {
+        "name": "Dr. Narasimhan S V ",
+        "designation": "Assistant Professor",
+        "address": "JSSISH, Mysuru.",
+        "email": " narasimhanslp@gmail.com",
+        "path": "/people/narasimha.jpg"
+      }
+    ],
+    "externalAdvisors": [],
+    "researchScholars": [],
+    "students": [
+      "Navya ",
+      "II Year PG Student (MSc SLP)"
+    ],
+    "alumni": [],
+    "members": [
+      {
+        "name": "Ms. Sahana K",
+        "designation": "Speech Language Pathologist",
         "address": "JSSISH, Mysuru"
       }
     ]

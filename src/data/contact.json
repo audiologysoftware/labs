@@ -34,7 +34,31 @@
         "designation": "professor in audiology",
         "address" : "JSS Speech and Hearing , Mysore",
         "email" : "hemanthn.shetty@jssish.in"        
-    }  
+    },
+    {
+        "name": "Dr. Niharika M K ",
+        "designation": "Assistant Professor",
+        "address" : "JSS Speech and Hearing , Mysore",
+        "email" : " niharika@jssish.in"        
+    },   
+    {
+        "name": "Ms. Revathi",
+        "designation": "Assistant Professor",
+        "address" : "JSS Speech and Hearing , Mysore",
+        "email" : " revathi@jssish.in "        
+    },
+    {
+        "name": "Mr Gunasagar",
+        "designation": "Speech Language Pathologist",
+        "address" : "JSS Speech and Hearing , Mysore",
+        "email" : " gunasagar43@gmail.com"        
+    },
+    {
+        "name": "Dr Narasimhan S V",
+        "designation": "Speech Language Pathologist",
+        "address" : "JSS Speech and Hearing , Mysore",
+        "email" : " narasimhanslp@gmail.com"        
+    } 
 ]
     
    

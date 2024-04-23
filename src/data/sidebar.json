@@ -195,7 +195,136 @@
                 "position":6
             }
         ]
+    },
+    {
+        "title": "Neurocognition Lab",
+        "icon": "bi-gear-fill",
+        "position" : 7,
+        "path" : "/neurocognition",
+        "childrens": [
+            {
+                "title": "People",
+                "icon": "bi-house-fill",
+                "path": "/people",
+                "position" : 7
+            },
+            {
+                "title": "Research",
+                "icon": "bi-info-circle-fill",
+                "path": "/Research",
+                "position" : 7
+            },
+            {
+                "title": "Announcement",
+                "icon": "bi-phone-fill",
+                "path":"/Announcement",
+                "position" : 7
+           },
+            {
+                "title": "Contact",
+                "icon": "bi-question-circle-fill",
+                "path":"/Contact",
+                "position":7
+            }
+        ]
+    },
+    {
+        "title": "Acoustic Lab",
+        "icon": "bi-gear-fill",
+        "position" : 8,
+        "path" : "/acoustic",
+        "childrens": [
+            {
+                "title": "People",
+                "icon": "bi-house-fill",
+                "path": "/people",
+                "position" : 8
+            },
+            {
+                "title": "Research",
+                "icon": "bi-info-circle-fill",
+                "path": "/Research",
+                "position" : 8
+            },
+            {
+                "title": "Announcement",
+                "icon": "bi-phone-fill",
+                "path":"/Announcement",
+                "position" : 8
+           },
+            {
+                "title": "Contact",
+                "icon": "bi-question-circle-fill",
+                "path":"/Contact",
+                "position":8
+            }
+        ]
+    },
+    {
+        "title": "Deglutition Lab",
+        "icon": "bi-gear-fill",
+        "position" : 9,
+        "path" : "/deglutition",
+        "childrens": [
+            {
+                "title": "People",
+                "icon": "bi-house-fill",
+                "path": "/people",
+                "position" : 9
+            },
+            {
+                "title": "Research",
+                "icon": "bi-info-circle-fill",
+                "path": "/Research",
+                "position" : 9
+            },
+            {
+                "title": "Announcement",
+                "icon": "bi-phone-fill",
+                "path":"/Announcement",
+                "position" : 9
+           },
+            {
+                "title": "Contact",
+                "icon": "bi-question-circle-fill",
+                "path":"/Contact",
+                "position":9
+            }
+        ]
+    },
+    {
+        "title": "Voice Lab",
+        "icon": "bi-gear-fill",
+        "position" : 10,
+        "path" : "/voice",
+        "childrens": [
+            {
+                "title": "People",
+                "icon": "bi-house-fill",
+                "path": "/people",
+                "position" : 10
+            },
+            {
+                "title": "Research",
+                "icon": "bi-info-circle-fill",
+                "path": "/Research",
+                "position" : 10
+            },
+            {
+                "title": "Announcement",
+                "icon": "bi-phone-fill",
+                "path":"/Announcement",
+                "position" : 10
+           },
+            {
+                "title": "Contact",
+                "icon": "bi-question-circle-fill",
+                "path":"/Contact",
+                "position":10
+            }
+        ]
     }
+    
     
    ]
     

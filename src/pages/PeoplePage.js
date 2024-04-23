@@ -15,7 +15,6 @@ export default function People() {
     <div>
       <Layout>
         <div>
-          {/* <h1>People</h1> */}
           <div>
             <h2>Advisor</h2>
             <div>
